@@ -80,8 +80,3 @@ This is a simple command-line Rock-Paper-Scissors game built using C++. The game
     ```
 
 
-
-Computer Score  : 5
------------------------------------------------------------------------------------------------------------------------
-
-DO YOU WANT TO PLAY AGAIN(y/n)? 
